@@ -1,2 +1,2 @@
 # better-me
-a/b testing your life
+Become a better person and building better habits/lifestyle based on A/B testing principles
